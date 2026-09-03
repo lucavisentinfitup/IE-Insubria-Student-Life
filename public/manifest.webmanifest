@@ -1,0 +1,23 @@
+{
+  "name": "IE! — Insubria Eventi",
+  "short_name": "IE!",
+  "description": "Your student life. One place.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#080808",
+  "theme_color": "#080808",
+  "categories": ["social", "education", "lifestyle"],
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Events!", "short_name": "Events", "url": "/?section=events" },
+    { "name": "Studies!", "short_name": "Studies", "url": "/?section=studies" },
+    { "name": "People!", "short_name": "People", "url": "/?section=people" }
+  ]
+}
