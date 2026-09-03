@@ -4,7 +4,6 @@ const config: CapacitorConfig = {
   appId: 'it.insubriaeventi.ie',
   appName: 'IE!',
   webDir: 'out',
-  bundledWebRuntime: false,
   server: {
     androidScheme: 'https'
   },
