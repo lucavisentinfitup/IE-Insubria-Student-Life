@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.vercel
+.env
+.env.*
+!.env.example
+android/.gradle
+android/app/build
+ios/App/Pods
+.DS_Store
