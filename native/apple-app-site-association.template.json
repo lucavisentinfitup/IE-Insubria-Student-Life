@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["TEAM_ID.it.insubriaeventi.ie"],
+        "components": [{ "/": "/*", "comment": "Open IE! links in the native app" }]
+      }
+    ]
+  },
+  "webcredentials": { "apps": ["TEAM_ID.it.insubriaeventi.ie"] }
+}
